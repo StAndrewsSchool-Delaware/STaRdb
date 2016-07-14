@@ -1,6 +1,9 @@
 # STaRdb
 **Scalable Transportation and Reservation database**
 
+###Notes
+- The [/webapp](/webapp) folder contains the SailsJS project and is the main development staging area.
+
 ###To contribute:
 Install [Node.js and NPM](https://nodejs.org/en/)
 Install SailsJS via `sudo npm -g install sails`
